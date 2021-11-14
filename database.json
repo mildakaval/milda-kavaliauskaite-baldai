@@ -1,0 +1,130 @@
+{
+    "furniture": [
+        {
+        "id": "1",
+        "title": "Kėdžių komplektas",
+        "type": "chair",
+        "price": 89.90,
+        "location": {
+          "country": "Lietuva",
+          "city": "Palanga",
+          "street": "Meduolio g. 5"
+        },
+        "owner": {
+          "fullname": "Jonas Petraitis",
+          "mobile": "+3706785625",
+          "address": "Bazilijonų g. 8, Kaunas, Lietuva",
+          "email": "jonaspet@gmail.com"
+        },
+        "imgSrc": "https://decora.lt/831-large_default/kedes-e528.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Dvigulė lova",
+        "type": "bed",
+        "price": 174.90,
+        "location": {
+          "country": "Lietuva",
+          "city": "Jonava",
+          "street": "Geležies g. 76"
+        },
+        "owner": {
+          "fullname": "Marytė Stanaitytė",
+          "mobile": "+3706423690",
+          "address": "Gervuogių g. 14, Druskininkai, Lietuva",
+          "email": "stanaityte115@gmail.com"
+        },
+        "imgSrc": "https://lh3.googleusercontent.com/proxy/Eunk_F9E6xrLQ6CcrbKiCvH8akUOf7VO_MUUZl4wUb9lcJhdUZ2IfI-x0m08VermYdUVs8dJT19UhVzBWuYNYt84EoyBe8dFQ9cZYuX-86Z08vpU2geons-tDOrieew"
+      },
+      {
+        "id": "3",
+        "title": "Virtuvės komplektas",
+        "type": "kitchen furniture",
+        "price": 1534.54,
+        "location": {
+          "country": "Lietuva",
+          "city": "Vilnius",
+          "street": "Debesų g. 47"
+        },
+        "owner": {
+          "fullname": "Danas Karpis",
+          "mobile": "+3706315209",
+          "address": "Miko g. 214, Klaipėda, Lietuva",
+          "email": "karpinis@gmail.com"
+        },
+        "imgSrc": "data:image/jpeg;base64,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"
+      },
+      {
+        "id": "4",
+        "title": "Stiklinis stalas",
+        "type": "table",
+        "price": 384.30,
+        "location": {
+          "country": "Lietuva",
+          "city": "Utena",
+          "street": "Kastyčio g. 2"
+        },
+        "owner": {
+          "fullname": "Kazys Kastytis",
+          "mobile": "+3706863825",
+          "address": "Gatvių g. 14, Kaunas, Lietuva",
+          "email": "kazkas@gmail.com"
+        },
+        "imgSrc": "https://static.baldaitau.lt/image/cache/catalog/products/virtuv%C4%97s-baldai/stalas-anton-58837-650x650.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Vaikiška lova",
+        "type": "bed",
+        "price": 124.20,
+        "location": {
+          "country": "Lietuva",
+          "city": "Skuodas",
+          "street": "Upės g. 6"
+        },
+        "owner": {
+          "fullname": "Mantė Kantrutė",
+          "mobile": "+3706782398",
+          "address": "Ilgoji g. 48, Alytus, Lietuva",
+          "email": "mantute@gmail.com"
+        },
+        "imgSrc": "https://ksd-images.lt/display/aikido/store/d4afda898240326f3fd5716ec33cbbb7.jpg"
+      },
+      {
+        "id": "6",
+        "title": "Raudona sofa",
+        "type": "sofa",
+        "price": 213.65,
+        "location": {
+          "country": "Lietuva",
+          "city": "Jurbarkas",
+          "street": "Svajonių g. 28"
+        },
+        "owner": {
+          "fullname": "Bronius Karosas",
+          "mobile": "+3706544376",
+          "address": "Bastučių g. 114, Kėdainiai, Lietuva",
+          "email": "karosasbronius@gmail.com"
+        },
+        "imgSrc": "https://www.accanto.lt/38428-thickbox_default/sofa-lova-alexis-225x108.jpg"
+      },
+      {
+        "id": "7",
+        "title": "Veidrodinė spinta",
+        "type": "closet",
+        "price": 574.39,
+        "location": {
+          "country": "Lietuva",
+          "city": "Vilnius",
+          "street": "Kaimyno g. 59"
+        },
+        "owner": {
+          "fullname": "Matas Nemunas",
+          "mobile": "+3706768798",
+          "address": "Vasaros g. 264, Klaipėda, Lietuva",
+          "email": "nemunelis@gmail.com"
+        },
+        "imgSrc": "https://spintatau.lt/wp-content/uploads/2019/08/prieskambario-sienines-spintos-su-stumdomomis-durimis-veidrodis-ruda.jpg"
+      }
+    ]
+}
