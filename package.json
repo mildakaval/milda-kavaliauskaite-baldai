@@ -1,0 +1,23 @@
+{
+  "name": "milda-kavaliauskaite-baldai",
+  "version": "1.0.0",
+  "description": "CA DOM baldai",
+  "main": "index.js",
+  "scripts": {
+    "start-unix": "node_modules/.bin/json-server --watch database.json",
+    "start-win": "node_modules\\.bin\\json-server --watch database.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mildakaval/milda-kavaliauskaite-baldai.git"
+  },
+  "author": "milda kavaliauskaite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mildakaval/milda-kavaliauskaite-baldai/issues"
+  },
+  "homepage": "https://github.com/mildakaval/milda-kavaliauskaite-baldai#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
